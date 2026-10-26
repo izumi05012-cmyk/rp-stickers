@@ -23,8 +23,8 @@
 | sleepy | 犯困 |
 | grumpy | 抱臂生气 |
 | startled | 吓得毛竖起来 |
-| pat | 大鹦鹉摸摸小鹦鹉 |
-| give | 小鹦鹉递东西 |
-| hug_tight | 大鹦鹉把小鹦鹉抱紧 |
+| punch | 大白鸟一拳打在小绿鸟脸上 |
+| poke | 小绿鸟用嘴戳大白鸟肚子 |
+| squeeze | 大白鸟生气地把小绿鸟勒住 |
 | lie_flat | 趴地上躺平 |
 | cheer | 举起翅膀欢呼 |
