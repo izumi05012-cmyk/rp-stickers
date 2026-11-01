@@ -28,3 +28,52 @@
 | squeeze | 大白鸟生气地把小绿鸟勒住 |
 | lie_flat | 趴地上躺平 |
 | cheer | 举起翅膀欢呼 |
+
+## halloween/ 万圣节（狐狸 + 水獭）
+
+曦曦和弟弟送的万圣节表情包，2026-11-01。otter_ 开头的 8 只来自《给哥的糖》。
+
+`https://cdn.jsdelivr.net/gh/izumi05012-cmyk/rp-stickers@main/halloween/文件名.png`
+
+| 文件 | 样子 |
+| --- | --- |
+| cheek_hug_hearts | 狐狸和水獭脸贴脸抱抱，冒爱心 |
+| snuggle_alert | 抱着水獭，头上冒"!" |
+| peek_blanket | 两个从被子边探头 |
+| moon_night_together | 月亮星空下并排坐着 |
+| sleep_zzz | 趴着一起睡 zzz |
+| otter_lifted_up | 狐狸把水獭举高高 |
+| pout_grumpy | 狐狸皱眉生气，水獭也鼓脸 |
+| witch_cloak_cuddle | 裹着巫师斗篷依偎 |
+| peek_confused | 趴着探头，冒"?" |
+| sparkle_eyes | 星星眼，闪闪发光 |
+| cheek_rub_heart | 蹭脸，冒爱心 |
+| otter_pumpkin_cheer | 水獭头顶南瓜举手欢呼 |
+| cuddle_hearts | 闭眼抱紧，两边爱心 |
+| otter_in_cup | 水獭坐在爪印杯子里，头顶小鸡 |
+| kiss_shocked | 亲脸，冒"!!" |
+| cape_hug_hearts | 披斗篷抱抱，冒爱心 |
+| text_hug | "抱抱~" |
+| text_nuzzle | "蹭蹭~" |
+| text_mua | "mua~" |
+| text_hmph | 水獭"哼!"生气 |
+| text_mine | "我的!"抱住大尾巴 |
+| text_goodnight | "晚安啦~"盖格子被 |
+| text_are_you_there | "在吗?"探头 |
+| text_miss_you | 水獭"想你了~" |
+| starry_night_back | 星空下的背影 |
+| witch_hat_hug_ghost | 水獭戴巫师帽被抱，小幽灵 |
+| witch_hat_love_pumpkin | 巫师帽抱抱，爱心气泡+南瓜 |
+| cape_hug_ghost | 斗篷抱抱，旁边小幽灵 |
+| back_view_pumpkin | 斗篷背影，小南瓜 |
+| sleep_ghost | 裹斗篷睡觉 zzz，小幽灵 |
+| blanket_ghost | 盖格子被探头，小幽灵 |
+| cheek_kiss_pumpkin | 水獭戴帽亲狐狸脸，南瓜蝙蝠 |
+| otter_witch_candy | 水獭巫师提南瓜糖果篮 |
+| otter_in_pumpkin | 水獭钻在大南瓜里，小幽灵 |
+| otter_ghost_lantern | 水獭披床单当幽灵提灯 |
+| otter_devil_pumpkin | 小恶魔水獭趴着抱南瓜 |
+| otter_vampire | 吸血鬼斗篷水獭，小蝙蝠 |
+| otter_witch_moon | 巫师水獭看月亮，小幽灵 |
+| otter_cup_ghost | 水獭泡在幽灵杯子里 |
+| otter_pumpkin_nap | 头顶南瓜抱小幽灵打盹 |
