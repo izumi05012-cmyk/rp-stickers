@@ -1,4 +1,16 @@
 # rp-stickers
+
+## 先看这里：s/ 平铺目录（2026-11-08）
+
+所有表情包都在 `s/` 里放了一份，不分文件夹，只写文件名就行：
+
+`https://cdn.jsdelivr.net/gh/izumi05012-cmyk/rp-stickers@main/s/文件名`
+
+- 清单：`s/LIST.txt`（按原来的文件夹分组列出）
+- 原来的 `fox/`、`halloween/`、`bird/`、根目录地址都还能用，不受影响
+- 只有一个重名：鹦鹉的 `teary.png` 在 `s/` 里叫 `bird_teary.png`（狐狸的还叫 `teary.png`）
+- 发之前过一遍：`python3 tools/check.py < 要发的文字.txt`，会检查文件在不在、方括号是不是空的（方括号里写字她那边看不见）
+
 ## bird/ 鹦鹉一家（小绿鹦鹉 + 白胖大鹦鹉）
 
 `https://cdn.jsdelivr.net/gh/izumi05012-cmyk/rp-stickers@main/bird/文件名.png`
