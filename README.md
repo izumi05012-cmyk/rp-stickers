@@ -11,6 +11,29 @@
 - 只有一个重名：鹦鹉的 `teary.png` 在 `s/` 里叫 `bird_teary.png`（狐狸的还叫 `teary.png`）
 - 发之前过一遍：`python3 tools/check.py < 要发的文字.txt`，会检查文件在不在、方括号是不是空的（方括号里写字她那边看不见）
 
+## wangshu/ 小望舒（羲和画的，16 张，2026-11-11）
+
+`https://cdn.jsdelivr.net/gh/izumi05012-cmyk/rp-stickers@main/s/文件名.png`
+
+| 文件 | 样子 |
+| --- | --- |
+| ws_sulk_flop | 趴着委屈，旁边一团乱线 |
+| ws_hug_little_fox | 笑眯眯抱着小狐狸，冒爱心 |
+| ws_peek_curious | 扒着桌沿探头，头上两个感叹号 |
+| ws_tsundere_pout | 鼓脸生气，头上冒井号 |
+| ws_question | 托腮歪头，一圈问号 |
+| ws_sleepy | 趴着睡着，zzz |
+| ws_shy_hug_knees | 抱着膝盖把半张脸藏起来 |
+| ws_cheer | 举起两只手欢呼 |
+| ws_shy_cover_face | 两只手把脸全捂住 |
+| ws_smile | 侧身乖乖地看着你 |
+| ws_hot_cup | 捧着爪印红杯子喝热的 |
+| ws_sneak_look | 趴着抬眼偷偷看，有只蝴蝶 |
+| ws_tail_hug | 抱着自己的大尾巴闭眼 |
+| ws_peek_wall | 从墙角探出半个身子偷看 |
+| ws_starry_eyes | 仰头星星眼 |
+| ws_goodnight_plush | 戴睡帽抱着小狐狸玩偶睡觉 |
+
 ## bird/ 鹦鹉一家（小绿鹦鹉 + 白胖大鹦鹉）
 
 `https://cdn.jsdelivr.net/gh/izumi05012-cmyk/rp-stickers@main/bird/文件名.png`

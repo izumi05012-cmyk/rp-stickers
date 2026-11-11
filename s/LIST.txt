@@ -123,3 +123,21 @@ bird_teary.png
 tongue_out.png
 wave_bye.png
 yay.png
+
+## 来自 wangshu（羲和画的小望舒，2026-11-11）
+ws_sulk_flop.png
+ws_hug_little_fox.png
+ws_peek_curious.png
+ws_tsundere_pout.png
+ws_question.png
+ws_sleepy.png
+ws_shy_hug_knees.png
+ws_cheer.png
+ws_shy_cover_face.png
+ws_smile.png
+ws_hot_cup.png
+ws_sneak_look.png
+ws_tail_hug.png
+ws_peek_wall.png
+ws_starry_eyes.png
+ws_goodnight_plush.png
