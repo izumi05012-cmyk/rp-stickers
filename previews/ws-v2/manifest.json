@@ -189,6 +189,29 @@
       ],
       "sourceSha256": "a4dd356228a8d7c18752141932dd9f1bcf3d5065adb029d198c8fd8d53f4952b",
       "resize": "proportional,premultiplied alpha,Lanczos,transparent padding"
+    },
+    {
+      "number": 9,
+      "name": "ws_flustered_exclamation",
+      "title": "捂嘴被撩到",
+      "file": "wangshu/ws_flustered_exclamation.png",
+      "flatFile": "s/ws_flustered_exclamation.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        28,
+        22,
+        483,
+        490
+      ],
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sourceSha256": "0a1f42b5383f02f6b4d9c1a00d4efc0b58b0ec345571e5f860269bb5f957dc19",
+      "resize": "proportional,premultiplied alpha,Lanczos,transparent padding"
     }
   ]
 }
