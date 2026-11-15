@@ -148,3 +148,4 @@ ws_teary_smile_handprints.png
 ws_sorry_tail_ball.png
 ws_smug_tail_up.png
 ws_madanghu_ok.png
+ws_pinky_red_thread.png

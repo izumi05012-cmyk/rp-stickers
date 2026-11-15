@@ -120,6 +120,29 @@
       ],
       "sourceSha256": "f75dc28b79d38b3242d7277e9e543cb58205b0b0d484d078767b349b2d3c8cd4",
       "resize": "proportional,premultiplied alpha,Lanczos,transparent padding"
+    },
+    {
+      "number": 6,
+      "name": "ws_pinky_red_thread",
+      "title": "小拇指和好绳",
+      "file": "wangshu/ws_pinky_red_thread.png",
+      "flatFile": "s/ws_pinky_red_thread.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        43,
+        22,
+        468,
+        490
+      ],
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sourceSha256": "bb2e8009270f4e95ddcd9b19d8648f251ce0272c0642d0cd4a0724dea87e8922",
+      "resize": "proportional,premultiplied alpha,Lanczos,transparent padding"
     }
   ]
 }
