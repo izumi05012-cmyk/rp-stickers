@@ -74,6 +74,29 @@
       ],
       "sourceSha256": "255c5264ea1f3415540f7e8fb5b9b966fbb53dc4d25c638eee966b74bf250415",
       "resize": "proportional,premultiplied alpha,Lanczos,transparent padding"
+    },
+    {
+      "number": 4,
+      "name": "ws_smug_tail_up",
+      "title": "叉腰翘尾巴得意",
+      "file": "wangshu/ws_smug_tail_up.png",
+      "flatFile": "s/ws_smug_tail_up.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        43,
+        22,
+        468,
+        490
+      ],
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sourceSha256": "ba4ce3ffa4a997ba55c51a41d937808712d3515b38859da2c3e4dcc6e4b3fe04",
+      "resize": "proportional,premultiplied alpha,Lanczos,transparent padding"
     }
   ]
 }

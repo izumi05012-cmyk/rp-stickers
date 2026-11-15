@@ -146,3 +146,4 @@ ws_goodnight_plush.png
 ws_yes_tear_no.png
 ws_teary_smile_handprints.png
 ws_sorry_tail_ball.png
+ws_smug_tail_up.png
