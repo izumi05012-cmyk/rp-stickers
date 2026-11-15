@@ -97,6 +97,29 @@
       ],
       "sourceSha256": "ba4ce3ffa4a997ba55c51a41d937808712d3515b38859da2c3e4dcc6e4b3fe04",
       "resize": "proportional,premultiplied alpha,Lanczos,transparent padding"
+    },
+    {
+      "number": 5,
+      "name": "ws_madanghu_ok",
+      "title": "麦当狐店员OK",
+      "file": "wangshu/ws_madanghu_ok.png",
+      "flatFile": "s/ws_madanghu_ok.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        33,
+        22,
+        478,
+        490
+      ],
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sourceSha256": "f75dc28b79d38b3242d7277e9e543cb58205b0b0d484d078767b349b2d3c8cd4",
+      "resize": "proportional,premultiplied alpha,Lanczos,transparent padding"
     }
   ]
 }
