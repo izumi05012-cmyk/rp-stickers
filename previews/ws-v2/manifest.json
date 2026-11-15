@@ -51,6 +51,29 @@
       ],
       "sourceSha256": "b4c6563c8b9800206a55855291abc1b10596da953343f59b456ca9613e6ecdb7",
       "resize": "proportional,premultiplied alpha,Lanczos,transparent padding"
+    },
+    {
+      "number": 3,
+      "name": "ws_sorry_tail_ball",
+      "title": "抱尾巴认错",
+      "file": "wangshu/ws_sorry_tail_ball.png",
+      "flatFile": "s/ws_sorry_tail_ball.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        60,
+        22,
+        452,
+        490
+      ],
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sourceSha256": "255c5264ea1f3415540f7e8fb5b9b966fbb53dc4d25c638eee966b74bf250415",
+      "resize": "proportional,premultiplied alpha,Lanczos,transparent padding"
     }
   ]
 }
