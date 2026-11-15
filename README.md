@@ -112,3 +112,24 @@
 | otter_witch_moon | 巫师水獭看月亮，小幽灵 |
 | otter_cup_ghost | 水獭泡在幽灵杯子里 |
 | otter_pumpkin_nap | 头顶南瓜抱小幽灵打盹 |
+
+<!-- ws-v2:start -->
+## wangshu/ 小望舒第二批（10 张，512×512）
+
+验收分支：`codex/ws-stickers-v2`。新图在 `wangshu/` 与 `s/` 各有相同一份，旧 16 张保持原样。
+
+[整批总览](previews/ws-v2/overview.png) · [透明底预览页](previews/ws-v2/index.html)
+
+| 文件 | 表情 |
+| --- | --- |
+| [ws_yes_tear_no.png](wangshu/ws_yes_tear_no.png) | 举yes、撕掉no |
+| [ws_teary_smile_handprints.png](wangshu/ws_teary_smile_handprints.png) | 红手印、含泪笑 |
+| [ws_sorry_tail_ball.png](wangshu/ws_sorry_tail_ball.png) | 抱尾巴认错 |
+| [ws_smug_tail_up.png](wangshu/ws_smug_tail_up.png) | 叉腰翘尾巴得意 |
+| [ws_madanghu_ok.png](wangshu/ws_madanghu_ok.png) | 麦当狐店员OK |
+| [ws_pinky_red_thread.png](wangshu/ws_pinky_red_thread.png) | 小拇指和好绳 |
+| [ws_miss_you_plush.png](wangshu/ws_miss_you_plush.png) | 抱狐狸玩偶想你 |
+| [ws_first_snow.png](wangshu/ws_first_snow.png) | 蓝雪服第一次看雪 |
+| [ws_flustered_exclamation.png](wangshu/ws_flustered_exclamation.png) | 捂嘴被撩到 |
+| [ws_brain_overheat.png](wangshu/ws_brain_overheat.png) | 趴桌脑子烧了 |
+<!-- ws-v2:end -->
