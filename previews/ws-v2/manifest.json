@@ -143,6 +143,29 @@
       ],
       "sourceSha256": "bb2e8009270f4e95ddcd9b19d8648f251ce0272c0642d0cd4a0724dea87e8922",
       "resize": "proportional,premultiplied alpha,Lanczos,transparent padding"
+    },
+    {
+      "number": 7,
+      "name": "ws_miss_you_plush",
+      "title": "抱狐狸玩偶想你",
+      "file": "wangshu/ws_miss_you_plush.png",
+      "flatFile": "s/ws_miss_you_plush.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        32,
+        22,
+        479,
+        490
+      ],
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sourceSha256": "7ab8eaac39d9066247c9ddeab942b27c93ece8cfb172d5e7ad6a0e8fe2798506",
+      "resize": "proportional,premultiplied alpha,Lanczos,transparent padding"
     }
   ]
 }
