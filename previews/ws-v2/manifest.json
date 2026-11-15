@@ -1,0 +1,33 @@
+{
+  "batch": "ws-v2",
+  "canvas": [
+    512,
+    512
+  ],
+  "style": "same soft hand-drawn Little Wangshu chibi as existing16",
+  "stickers": [
+    {
+      "number": 1,
+      "name": "ws_yes_tear_no",
+      "title": "举yes、撕掉no",
+      "file": "wangshu/ws_yes_tear_no.png",
+      "flatFile": "s/ws_yes_tear_no.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        22,
+        25,
+        490,
+        486
+      ],
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sourceSha256": "e1fc09f1fb01dbc988fd35a0f92cef326f695441a0dfefeb89cc7aa81684c6b3",
+      "resize": "proportional,premultiplied alpha,Lanczos,transparent padding"
+    }
+  ]
+}

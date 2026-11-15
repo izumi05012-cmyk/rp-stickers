@@ -141,3 +141,6 @@ ws_tail_hug.png
 ws_peek_wall.png
 ws_starry_eyes.png
 ws_goodnight_plush.png
+
+## 来自 wangshu · 小望舒第二批（512×512）
+ws_yes_tear_no.png
