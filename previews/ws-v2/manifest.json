@@ -166,6 +166,29 @@
       ],
       "sourceSha256": "7ab8eaac39d9066247c9ddeab942b27c93ece8cfb172d5e7ad6a0e8fe2798506",
       "resize": "proportional,premultiplied alpha,Lanczos,transparent padding"
+    },
+    {
+      "number": 8,
+      "name": "ws_first_snow",
+      "title": "蓝雪服第一次看雪",
+      "file": "wangshu/ws_first_snow.png",
+      "flatFile": "s/ws_first_snow.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        69,
+        22,
+        442,
+        490
+      ],
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sourceSha256": "a4dd356228a8d7c18752141932dd9f1bcf3d5065adb029d198c8fd8d53f4952b",
+      "resize": "proportional,premultiplied alpha,Lanczos,transparent padding"
     }
   ]
 }
