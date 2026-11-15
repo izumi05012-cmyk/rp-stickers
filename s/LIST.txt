@@ -152,3 +152,4 @@ ws_pinky_red_thread.png
 ws_miss_you_plush.png
 ws_first_snow.png
 ws_flustered_exclamation.png
+ws_brain_overheat.png

@@ -212,6 +212,29 @@
       ],
       "sourceSha256": "0a1f42b5383f02f6b4d9c1a00d4efc0b58b0ec345571e5f860269bb5f957dc19",
       "resize": "proportional,premultiplied alpha,Lanczos,transparent padding"
+    },
+    {
+      "number": 10,
+      "name": "ws_brain_overheat",
+      "title": "趴桌脑子烧了",
+      "file": "wangshu/ws_brain_overheat.png",
+      "flatFile": "s/ws_brain_overheat.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        22,
+        47,
+        490,
+        465
+      ],
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sourceSha256": "2de2107c82f34ebf8f539744947c11d1c833ac06fed0c95505fc4475d9ef01eb",
+      "resize": "proportional,premultiplied alpha,Lanczos,transparent padding"
     }
   ]
 }
