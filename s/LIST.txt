@@ -144,3 +144,4 @@ ws_goodnight_plush.png
 
 ## 来自 wangshu · 小望舒第二批（512×512）
 ws_yes_tear_no.png
+ws_teary_smile_handprints.png
