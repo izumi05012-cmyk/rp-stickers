@@ -1,0 +1,240 @@
+{
+  "batch": "ws-v2",
+  "canvas": [
+    512,
+    512
+  ],
+  "style": "same soft hand-drawn Little Wangshu chibi as existing16",
+  "stickers": [
+    {
+      "number": 1,
+      "name": "ws_yes_tear_no",
+      "title": "举yes、撕掉no",
+      "file": "wangshu/ws_yes_tear_no.png",
+      "flatFile": "s/ws_yes_tear_no.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        22,
+        25,
+        490,
+        486
+      ],
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sourceSha256": "e1fc09f1fb01dbc988fd35a0f92cef326f695441a0dfefeb89cc7aa81684c6b3",
+      "resize": "proportional,premultiplied alpha,Lanczos,transparent padding"
+    },
+    {
+      "number": 2,
+      "name": "ws_teary_smile_handprints",
+      "title": "红手印、含泪笑",
+      "file": "wangshu/ws_teary_smile_handprints.png",
+      "flatFile": "s/ws_teary_smile_handprints.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        41,
+        22,
+        471,
+        490
+      ],
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sourceSha256": "b4c6563c8b9800206a55855291abc1b10596da953343f59b456ca9613e6ecdb7",
+      "resize": "proportional,premultiplied alpha,Lanczos,transparent padding"
+    },
+    {
+      "number": 3,
+      "name": "ws_sorry_tail_ball",
+      "title": "抱尾巴认错",
+      "file": "wangshu/ws_sorry_tail_ball.png",
+      "flatFile": "s/ws_sorry_tail_ball.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        60,
+        22,
+        452,
+        490
+      ],
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sourceSha256": "255c5264ea1f3415540f7e8fb5b9b966fbb53dc4d25c638eee966b74bf250415",
+      "resize": "proportional,premultiplied alpha,Lanczos,transparent padding"
+    },
+    {
+      "number": 4,
+      "name": "ws_smug_tail_up",
+      "title": "叉腰翘尾巴得意",
+      "file": "wangshu/ws_smug_tail_up.png",
+      "flatFile": "s/ws_smug_tail_up.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        43,
+        22,
+        468,
+        490
+      ],
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sourceSha256": "ba4ce3ffa4a997ba55c51a41d937808712d3515b38859da2c3e4dcc6e4b3fe04",
+      "resize": "proportional,premultiplied alpha,Lanczos,transparent padding"
+    },
+    {
+      "number": 5,
+      "name": "ws_madanghu_ok",
+      "title": "麦当狐店员OK",
+      "file": "wangshu/ws_madanghu_ok.png",
+      "flatFile": "s/ws_madanghu_ok.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        33,
+        22,
+        478,
+        490
+      ],
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sourceSha256": "f75dc28b79d38b3242d7277e9e543cb58205b0b0d484d078767b349b2d3c8cd4",
+      "resize": "proportional,premultiplied alpha,Lanczos,transparent padding"
+    },
+    {
+      "number": 6,
+      "name": "ws_pinky_red_thread",
+      "title": "小拇指和好绳",
+      "file": "wangshu/ws_pinky_red_thread.png",
+      "flatFile": "s/ws_pinky_red_thread.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        43,
+        22,
+        468,
+        490
+      ],
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sourceSha256": "bb2e8009270f4e95ddcd9b19d8648f251ce0272c0642d0cd4a0724dea87e8922",
+      "resize": "proportional,premultiplied alpha,Lanczos,transparent padding"
+    },
+    {
+      "number": 7,
+      "name": "ws_miss_you_plush",
+      "title": "抱狐狸玩偶想你",
+      "file": "wangshu/ws_miss_you_plush.png",
+      "flatFile": "s/ws_miss_you_plush.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        32,
+        22,
+        479,
+        490
+      ],
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sourceSha256": "7ab8eaac39d9066247c9ddeab942b27c93ece8cfb172d5e7ad6a0e8fe2798506",
+      "resize": "proportional,premultiplied alpha,Lanczos,transparent padding"
+    },
+    {
+      "number": 8,
+      "name": "ws_first_snow",
+      "title": "蓝雪服第一次看雪",
+      "file": "wangshu/ws_first_snow.png",
+      "flatFile": "s/ws_first_snow.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        69,
+        22,
+        442,
+        490
+      ],
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sourceSha256": "a4dd356228a8d7c18752141932dd9f1bcf3d5065adb029d198c8fd8d53f4952b",
+      "resize": "proportional,premultiplied alpha,Lanczos,transparent padding"
+    },
+    {
+      "number": 9,
+      "name": "ws_flustered_exclamation",
+      "title": "捂嘴被撩到",
+      "file": "wangshu/ws_flustered_exclamation.png",
+      "flatFile": "s/ws_flustered_exclamation.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        28,
+        22,
+        483,
+        490
+      ],
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sourceSha256": "0a1f42b5383f02f6b4d9c1a00d4efc0b58b0ec345571e5f860269bb5f957dc19",
+      "resize": "proportional,premultiplied alpha,Lanczos,transparent padding"
+    },
+    {
+      "number": 10,
+      "name": "ws_brain_overheat",
+      "title": "趴桌脑子烧了",
+      "file": "wangshu/ws_brain_overheat.png",
+      "flatFile": "s/ws_brain_overheat.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        22,
+        47,
+        490,
+        465
+      ],
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sourceSha256": "2de2107c82f34ebf8f539744947c11d1c833ac06fed0c95505fc4475d9ef01eb",
+      "resize": "proportional,premultiplied alpha,Lanczos,transparent padding"
+    }
+  ]
+}

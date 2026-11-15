@@ -141,3 +141,15 @@ ws_tail_hug.png
 ws_peek_wall.png
 ws_starry_eyes.png
 ws_goodnight_plush.png
+
+## 来自 wangshu · 小望舒第二批（512×512）
+ws_yes_tear_no.png
+ws_teary_smile_handprints.png
+ws_sorry_tail_ball.png
+ws_smug_tail_up.png
+ws_madanghu_ok.png
+ws_pinky_red_thread.png
+ws_miss_you_plush.png
+ws_first_snow.png
+ws_flustered_exclamation.png
+ws_brain_overheat.png

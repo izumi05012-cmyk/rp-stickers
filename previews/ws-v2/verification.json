@@ -1,0 +1,136 @@
+{
+  "stickers": 10,
+  "canvas": [
+    512,
+    512
+  ],
+  "allTransparent": true,
+  "softAlphaRetained": true,
+  "allMarginsAtLeast20px": true,
+  "uniqueImages": 10,
+  "flatCopiesIdentical": true,
+  "visualReview": [
+    "yes/no text and torn halves",
+    "two cheek handprints and teary smile",
+    "drooping ears and tail hug",
+    "hands on hips and high tail",
+    "apron and OK gesture",
+    "pinky corrected,thumb folded",
+    "face buried in fox plush",
+    "blue ski suit and goggles",
+    "single exclamation mark",
+    "one smoke wisp over desk"
+  ],
+  "files": [
+    {
+      "name": "ws_yes_tear_no",
+      "canvas": [
+        512,
+        512
+      ],
+      "transparent": true,
+      "softAlphaRetained": true,
+      "flatCopyIdentical": true,
+      "sha256": "76b6f1e510a02ec88d86625fad12999b45fe07d36a57944873424a419ed5718e"
+    },
+    {
+      "name": "ws_teary_smile_handprints",
+      "canvas": [
+        512,
+        512
+      ],
+      "transparent": true,
+      "softAlphaRetained": true,
+      "flatCopyIdentical": true,
+      "sha256": "f11b0c0bd5a6bd12111552d0197e3c4eba782eb2b846a8bf3d949bdc83945efd"
+    },
+    {
+      "name": "ws_sorry_tail_ball",
+      "canvas": [
+        512,
+        512
+      ],
+      "transparent": true,
+      "softAlphaRetained": true,
+      "flatCopyIdentical": true,
+      "sha256": "abc12b1b8d3c7d44c9d68ae2eb053762e9dffc3a59b74a544aa6b603f6dc767b"
+    },
+    {
+      "name": "ws_smug_tail_up",
+      "canvas": [
+        512,
+        512
+      ],
+      "transparent": true,
+      "softAlphaRetained": true,
+      "flatCopyIdentical": true,
+      "sha256": "05442c3dd87433f43c767a027b2e3a472b94d1e9aec482384418c852e8878603"
+    },
+    {
+      "name": "ws_madanghu_ok",
+      "canvas": [
+        512,
+        512
+      ],
+      "transparent": true,
+      "softAlphaRetained": true,
+      "flatCopyIdentical": true,
+      "sha256": "3f904bdb9acaedca324d606bd6851d7897e39c64f38e53b601e2848c766c3b6e"
+    },
+    {
+      "name": "ws_pinky_red_thread",
+      "canvas": [
+        512,
+        512
+      ],
+      "transparent": true,
+      "softAlphaRetained": true,
+      "flatCopyIdentical": true,
+      "sha256": "64819aaebe00bcba51ac616212e2aa997eb6299fc3fdececb5edf19ffefbb8bb"
+    },
+    {
+      "name": "ws_miss_you_plush",
+      "canvas": [
+        512,
+        512
+      ],
+      "transparent": true,
+      "softAlphaRetained": true,
+      "flatCopyIdentical": true,
+      "sha256": "efc5ba161103407e1b502ba05c3cb2cbdefaad30c8c91517579560e57f1dd594"
+    },
+    {
+      "name": "ws_first_snow",
+      "canvas": [
+        512,
+        512
+      ],
+      "transparent": true,
+      "softAlphaRetained": true,
+      "flatCopyIdentical": true,
+      "sha256": "7c239626f0a954fea0c530ecea02a1a1c1e6f81ec190f3495cdaba604836114f"
+    },
+    {
+      "name": "ws_flustered_exclamation",
+      "canvas": [
+        512,
+        512
+      ],
+      "transparent": true,
+      "softAlphaRetained": true,
+      "flatCopyIdentical": true,
+      "sha256": "84af0a1afeb226aae93827f93d67ce2e3886c8b0f2731fefb3f61408d38827ff"
+    },
+    {
+      "name": "ws_brain_overheat",
+      "canvas": [
+        512,
+        512
+      ],
+      "transparent": true,
+      "softAlphaRetained": true,
+      "flatCopyIdentical": true,
+      "sha256": "bb6437174452ec6908c4c3dc8508dae41d43d03bc15ed615f2f56383c0556b65"
+    }
+  ]
+}
